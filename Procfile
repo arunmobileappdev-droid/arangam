@@ -1,1 +1,1 @@
-web: gunicorn arangam.wsgi:application
+web: gunicorn arangam_project.wsgi:application
